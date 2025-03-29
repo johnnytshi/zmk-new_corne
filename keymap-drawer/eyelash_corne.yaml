@@ -226,8 +226,8 @@ layers:
   - $$mdi:brightness-5$$
   - F12
   - '&studio_unlock'
-  - '&RGB_TOG'
-  - '&RGB_EFF'
+  - RGB TOG
+  - RGB EFF
   - {t: '$$mdi:minus-circle-outline$$', type: none}
   - {t: '$$mdi:backup-restore$$', type: bootloader}
   - $$mdi:progress-download$$
