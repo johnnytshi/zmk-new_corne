@@ -6,8 +6,8 @@ manifest:
       # See:
       # - https://zmk.dev/docs/features/modules
       # - https://docs.zephyrproject.org/3.5.0/develop/west/manifest.html#projects
-    - name: gpeye                         #new entry
-      url-base: https://github.com/GPeye  #new entry
+    - name: johnnytshi                         #new entry
+      url-base: https://github.com/johnnytshi  #new entry
   projects:
     - name: eyelash_corne
       url: https://github.com/a741725193/zmk-new_corne
@@ -16,8 +16,8 @@ manifest:
       remote: zmkfirmware
       revision: main
       import: app/west.yml
-    - name: urchin-peripheral-animation   #new entry
-      remote: gpeye                       #new entry
-      revision: main                      #new entry
+    - name: nice-view-mod   #new entry
+      remote: johnnytshi    #new entry
+      revision: main        #new entry
   self:
     path: config
