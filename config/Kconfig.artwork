@@ -1,8 +1,0 @@
-if ZMK_DISPLAY
-
-config ZMK_WIDGET_ARTWORK
-    bool "Custom artwork widget for OLED display"
-    default y
-    depends on ZMK_DISPLAY
-
-endif # ZMK_DISPLAY
