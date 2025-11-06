@@ -45,8 +45,8 @@ layers:
   - SYMBOL
   - LGUI
   - $$mdi:apple-keyboard-control$$
-  - {t: '$$mdi:keyboard-return$$', type: enter}
   - $$mdi:keyboard-space$$
+  - {t: '$$mdi:keyboard-return$$', type: enter}
   - NAV
   - {t: '$$mdi:backspace$$', type: backspace}
   MAC:
